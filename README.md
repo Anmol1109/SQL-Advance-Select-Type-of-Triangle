@@ -1,0 +1,1 @@
+# SQL-Advance-Select-Type-of-Triangle
